@@ -7,11 +7,6 @@ h1 {
 	color: #000000;
 }
 
-body
-{
-		background-color: #FEF5CA;
-}
-
 p
 {
 	padding: 10px;
@@ -29,7 +24,7 @@ p
 
 section {
 	border:	1px solid black;
-	background-color: #00FF99;
+	background-color: grey;
 	width: 100%;
 	height: auto;
 	font-family: Georgia,sans-serif;
@@ -105,7 +100,7 @@ section {
 
 #header-nav {
   border: 0;
-  background-color: #FC5F06;
+  background-color: #f6b319;
   color: #FFFFFF;
 }
 
